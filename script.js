@@ -1,24 +1,17 @@
 // Assignment Code
-
 var generateBtn = document.querySelector("#generate");
+
+var lowerCaseChar = ("abcdefghijklmnopqrstuvwxyz").split("");
+var upperCaseChar = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ").split("");
+var numChar = ("0123456789").split("");
+var specialChar = ("!#$%&'()*+,-./:;<=>?@[\]^_`{|}~!#$%&'()*+,-./:;<=>?@[\]^_`{|}~").split("");
+
 
 
 function generatePassword() {
-  
-
-// prompt user for criteria
-    // length 8 to 128 char
-    // lowercase, upper, numbers, special char
-  var passLength = window.prompt("How many characters would you like this password to be?");
 
 
 
-// Input validation
-
-// generate password from criteria
-
-
-// Display password on page
 
 
 
