@@ -12,9 +12,9 @@ N/A
 
 The user will click the button that says "Generate Password" and windows will prompt the user to choose the criteria for the password. If the password length is not between 8 and 128 characters, an error message will prompt instead. Once the criteria is defined, a function, for loop, and method will generate the password on the screen.
 
-![Password Generator Webpage](https://barcar95.github.io/password-generator/)
+[Password Generator Webpage](https://barcar95.github.io/password-generator/)
 
-[![Watch the video](./assets/password-generator-screenshot.jpg)](./assets/password-generator.mp4)
+https://github.com/barcar95/password-generator/assets/129571184/5693547e-4f52-4257-91e6-500498713b3d
 
 ## Credits
 
